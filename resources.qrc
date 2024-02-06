@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Player/player_down_00.png</file>
+        <file>assets/Player/player_down_01.png</file>
+        <file>assets/Player/player_down_02.png</file>
+        <file>assets/Player/player_left_00.png</file>
+        <file>assets/Player/player_left_01.png</file>
+        <file>assets/Player/player_left_02.png</file>
+        <file>assets/Player/player_right_00.png</file>
+        <file>assets/Player/player_right_01.png</file>
+        <file>assets/Player/player_right_02.png</file>
+        <file>assets/Player/player_up_00.png</file>
+        <file>assets/Player/player_up_01.png</file>
+        <file>assets/Player/player_up_02.png</file>
+        <file>assets/Levels/23x11.json</file>
+        <file>assets/Crates/crate_02.png</file>
+        <file>assets/Blocks/block_01.png</file>
+        <file>assets/Ground/ground_06.png</file>
+        <file>assets/Environment/environment_05.png</file>
+        <file>assets/Crates/crate_12.png</file>
+    </qresource>
+</RCC>

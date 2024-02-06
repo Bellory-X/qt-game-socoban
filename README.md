@@ -1,1 +1,1 @@
-# qt-game-socoban
+## Sokoban
